@@ -95,3 +95,68 @@ PRs com descrições mais detalhadas e claras podem levar a um menor número de 
 - RQ 08. Qual a relação entre as interações nos PRs e o número de revisões realizadas?
 
 Um maior número de interações nos PRs pode indicar uma revisão mais colaborativa e iterativa, resultando em um maior número de revisões à medida que os colaboradores trabalham juntos para aprimorar o código.
+
+
+<a id='resultados'></a>
+## Resultados
+
+- ### RQ 01. Qual a relação entre o tamanho dos PRs e o feedback final das revisões?
+
+||||
+|:-:|:-:|:-:|
+| Relação entre Decisão da Review e Adições de Linhas | Relação entre Decisão da Review e Remoção de Linhas | Relação entre Decisão da Review e Total de arquivos |
+|<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/e6de5b09-e857-46a5-920d-f509a4057e60" alt="Relação entre Decisão da Review e Adições de Linhas" align="left" height="auto" width="400">|<img src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/b1882eb7-c528-4aa2-af25-b438317223b8" alt="Relação entre Decisão da Review e Remoção de Linhas (Violin Plot por Decisão)" align="left" height="auto" width="400">| <img src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/d83c8395-f9ab-465a-bfe5-34d2bc87421a" alt="Relação entre Decisão da Review e Total de arquivos" align="left" height="auto" width="400" >|
+
+- ### RQ 02. Qual a relação entre o tempo de análise dos PRs e o feedback final das revisões?
+
+<div align="center">
+
+<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/eb041386-2e9e-4792-b61b-e9716d7536e4" alt="Relação entre Decisão da Review e tempo de fechamento"  height="auto"  width="600" >
+ 
+</div>
+
+
+- ### RQ 03. Qual a relação entre a descrição dos PRs e o feedback final das revisões?
+
+<div align="center">
+
+<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/21ad2b69-46a3-435e-8e88-fa858eb3db3e" alt="Relação entre Decisão da Review e feedback final das revisões"  height="auto"  width="600" >
+ 
+</div>
+
+- ### RQ 04. Qual a relação entre as interações nos PRs e o feedback final das revisões?
+
+<div align="center">
+
+<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/880447e4-3584-43d3-b4ad-bdd4208c9194" alt="Relação entre Decisão da Review e Interações"  height="auto"  width="600" >
+ 
+</div>
+
+- ### RQ 05. Qual a relação entre o tamanho dos PRs e o número de revisões realizadas?
+
+||||
+|:-:|:-:|:-:|
+| Relação entre número de revisões realizadas e Total de arquivos | Relação entre número de revisões realizadas e Adições de Linhas | Relação entre número de revisões realizadas e Remoção de Linhas |
+|<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/4cf04cb0-f37e-413e-b83c-14a08127e225" alt="Relação entre número de revisões realizadas e Adições de Linhas" align="left" height="auto" width="300">|<img src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/c7d35b5f-bf94-4b2a-80d0-073b7a0fe36a" alt="Relação entre número de revisões realizadas e Remoção de Linhas" align="left" height="auto" width="300">| <img src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/8cc5f359-8b1b-4e23-9aa8-e9c14cc87eb3" alt="Relação entre número de revisões realizadas e Total de arquivos" align="left" height="auto" width="300" >|
+
+- ### RQ 06. Qual a relação entre o tempo de análise dos PRs e o número de revisões realizadas?
+
+|||
+|:-:|:-:|
+| Fechamento | Merge |
+|<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/11305f10-1ea6-4c44-b2a4-5936277f5ff2" alt="" align="left" height="auto" width="500">|<img src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/c2b26d98-df45-4953-88d5-6f0255b123f0" alt="Relação entre número de revisões realizadas e Remoção de Linhas" align="left" height="auto" width="500">|
+
+- ### RQ 07. Qual a relação entre a descrição dos PRs e o número de revisões realizadas?
+
+|||
+|:-:|:-:|
+| total de comentários x Reviws | nº caracteres no body x Reviws |
+|<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/a982e738-d861-4a6f-974a-4242384a7ab7" alt="" align="left" height="auto" width="500">|<img src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/60cef679-6aac-458d-b8fc-fd73e47db0eb" alt="Relação entre número de revisões realizadas e Remoção de Linhas" align="left" height="auto" width="500">|
+
+- ### RQ 08. Qual a relação entre as interações nos PRs e o número de revisões realizadas?
+
+<div align="center">
+
+<img  src="https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/65b6d036-ae75-412b-bae7-bff049525e91" alt=""  height="auto"  width="600" >
+ 
+</div>
