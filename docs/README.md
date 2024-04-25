@@ -95,6 +95,15 @@ Um maior número de interações nos PRs pode indicar uma revisão mais colabora
 <a id='resultados'></a>
 ## Resultados
 
+### Apresentação do mapa de calor do spearman
+
+<div align="center"> 
+ 
+![image](https://github.com/ArthurAlexi/LAB-EXPERIMENTACAO-03/assets/90854173/acc30ca3-1744-436b-b92c-0ff7ad2e4055)
+
+</div>
+
+
 - ### RQ 01. Qual a relação entre o tamanho dos PRs e o feedback final das revisões?
 
 ||||
